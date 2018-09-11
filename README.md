@@ -9,3 +9,8 @@
 * Valores
 * Corredores
 * Numero mayor
+* Empleados
+* Tres Numeros
+* Suma
+* Triangulo
+* Radio
